@@ -1,0 +1,6 @@
+PyMuPDF==1.23.8
+pytesseract==0.3.10
+fpdf2==2.7.8
+Pillow==10.2.0
+PyPDF2==3.0.1
+argostranslate==1.9.1
