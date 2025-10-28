@@ -18,7 +18,7 @@ python -c "import argostranslate; argostranslate.package.update_package_index();
 ## KULLANIMLAR
 
 input.pdf dosyasını proje klasörüne yerleştirin
-Terminalde çalıştırın : python pdf_translator.py
+Terminalde çalıştırın : python pdftranslate.py
 
 ## Özellikler 
 OCR destekli metin çıkarma
